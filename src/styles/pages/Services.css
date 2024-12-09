@@ -1,0 +1,8 @@
+.services-page {
+    padding: 20px;
+}
+
+.services-page .list-group-item {
+    margin-bottom: 10px;
+    font-size: 16px;
+}

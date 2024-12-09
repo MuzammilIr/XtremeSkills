@@ -1,0 +1,13 @@
+.plumber-page {
+    padding: 20px;
+}
+
+.plumber-page .card {
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.plumber-page .list-group-item {
+    margin-bottom: 10px;
+    font-size: 16px;
+}

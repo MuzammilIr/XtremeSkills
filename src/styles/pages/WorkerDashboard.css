@@ -1,0 +1,12 @@
+.worker-dashboard {
+    padding: 20px;
+}
+
+.worker-dashboard .list-group-item {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.worker-dashboard h3 {
+    margin-bottom: 20px;
+}

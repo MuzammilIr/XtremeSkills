@@ -1,0 +1,13 @@
+.jobs-page {
+    padding: 20px;
+}
+
+.jobs-page .list-group-item {
+    margin-bottom: 10px;
+    transition: all 0.3s;
+}
+
+.jobs-page .list-group-item:hover {
+    background-color: #007bff;
+    color: white;
+}
